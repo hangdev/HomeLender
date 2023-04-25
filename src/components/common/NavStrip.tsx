@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const NavStrip: React.FC  = () => {
   return (
@@ -14,4 +14,4 @@ const NavStrip: React.FC  = () => {
   )
 }
 
-export default NavStrip
+export default NavStrip;
